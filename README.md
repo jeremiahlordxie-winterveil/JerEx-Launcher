@@ -1,8 +1,8 @@
 # JerEx-Launcher
 A smart launcher for Windows ChatGPT / Codex to fix reconnecting issues.
-你可以直接**一键复制**下方代码框内的所有内容，粘贴到 GitHub 的 `README.md` 中：
 
-```markdown
+
+
 # 🚀 JEL (JerEx Launcher)
 
 > **告别 Windows ChatGPT / Codex 桌面客户端频繁 `Reconnecting...` 的困扰！**  
