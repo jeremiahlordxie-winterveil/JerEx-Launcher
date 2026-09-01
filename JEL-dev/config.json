@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "appName": "JerEx Launcher Development",
+  "displayName": "JEL DEV",
+  "windowTitle": "JerEx Launcher Development",
+  "version": "3.5.0-dev.1",
+  "testUri": "https://www.example.com/",
+  "openAiTestUri": "https://api.openai.com/v1/models",
+  "chatGptTestUri": "https://chatgpt.com/",
+  "launchDelayMs": 300,
+  "checkingDelayMs": 80,
+  "statusTimeoutMs": 900,
+  "verifyTimeoutSec": 15,
+  "portCandidates": [7897, 7892, 7890, 7891, 7898, 8080, 8888, 1080, 3128, 8081, 9090, 10808, 10809, 10810],
+  "proxyProtocols": ["http", "socks5h"]
+}

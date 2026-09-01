@@ -1,0 +1,4 @@
+JerEx JEL - development build
+
+Copyright (c) JerEx.
+This file is a placeholder for the license selected before public release.

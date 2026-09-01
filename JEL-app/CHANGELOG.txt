@@ -1,0 +1,6 @@
+0.1.0 - development baseline
+- Added .NET 8 Windows x64 WinForms application.
+- Added dynamic ChatGPT AppX discovery, CODEX_HOME resolution and junction support.
+- Added HTTP and SOCKS5 proxy discovery with OpenAI and ChatGPT reachability probes.
+- Added safe .env merge with timestamped backups and confirmation prompts.
+- Added per-user Inno Setup packaging inputs.

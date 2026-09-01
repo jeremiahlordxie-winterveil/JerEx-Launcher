@@ -1,0 +1,9 @@
+Security notes
+
+JEL does not store authentication tokens, passwords or proxy credentials.
+Only HTTP_PROXY and HTTPS_PROXY are changed, after user confirmation, and the
+previous .env is copied to a timestamped backup first.
+
+Please report security issues privately to the project maintainer before public
+disclosure. Code signing and a public security contact will be added before the
+first public release.

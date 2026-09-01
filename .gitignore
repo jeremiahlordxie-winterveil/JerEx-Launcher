@@ -1,0 +1,20 @@
+﻿# Build and Output
+[Bb]in/
+[Oo]bj/
+publish/
+artifacts/
+
+# Logs and Temp
+*.log
+*.tmp
+*.bak
+*.rar
+*.zip
+
+# Visual Studio & IDE
+.vs/
+*.user
+*.suo
+
+# Shortcuts
+*.lnk
